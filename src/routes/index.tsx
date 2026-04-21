@@ -17,7 +17,7 @@ function App() {
           <p>
             A high-performance registry for procedural agent skills. Discover,
             publish, and operate reusable agent capabilities from a
-            route-drivenworkspace.
+            route-driven workspace.
           </p>
         </div>
         <div className="actions">
